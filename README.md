@@ -1,4 +1,15 @@
 # EdTech Implytics
+
+### EdTech Implytics — Learning Analytics  
+**Repo:** [EdTech-Implytics](https://github.com/ImplyticsrProjects25/EdTech-Implytics)  
+**Focus:** Learning engagement, performance prediction, and feedback analytics.  
+**Highlights:**  
+- Student engagement model (R, ggplot2)  
+- Course completion prediction with logistic regression  
+- Education analytics dashboard  
+
+
+
 ---
 
 ## ⚖️ License
